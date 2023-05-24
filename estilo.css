@@ -1,8 +1,21 @@
 html{
-    background-color: beige;
+    background-color: rgb(245, 220, 230);
 }
 
 *{
-    color: hotpink;
+    color: rgb(255, 153, 105);
     text-align: center;
+}
+
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #d96161;
+    margin: 0 auto;
+}
+
+blockquote{
+    background-color: rgb(165, 157, 236);
+    color: rgb(162, 198, 104);
 }
