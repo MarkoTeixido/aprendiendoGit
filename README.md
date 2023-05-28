@@ -1,4 +1,4 @@
-# aprendiendoGit 
+# aprendiendoGit 🧩
 Un blog increíble para el [curso profesional de Git y Github ](http://https://platzi.com/cursos/git-github/ "curso profesional de Git y Github ") de [Platzi](http://https://platzi.com/ "Platzi").
 >Touché, c´était la seule chose élégante qu´il y avait.
 
