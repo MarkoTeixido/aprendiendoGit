@@ -9,7 +9,7 @@ Un blog increíble para el [curso profesional de Git y Github ](http://https://p
 - Buenas Prácticas
 - Solución de Conflictos
 - Algunos Trucos de Platzi
-- Creado con Ayuda del Gran Platzi Team!
+- Colaboración del Gran Platzi Team!
 
 PD: pequeño recordatorio de que **este Readme.md no va en serio** y solo es a modo de ejercicio.
 
