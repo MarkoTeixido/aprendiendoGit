@@ -10,6 +10,7 @@ Un blog increíble para el [curso profesional de Git y Github ](http://https://p
 - Solución de Conflictos
 - Algunos Trucos de Platzi
 - Creado por el increible Platzi Team
+- Incluye ejemplos en Windows, Linux y Mac
 
 PD: pequeño recordatorio de que **este Readme.md no va en serio** y solo es a modo de ejercicio.
 
