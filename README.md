@@ -7,7 +7,7 @@ Un blog increíble para el [curso profesional de Git y Github ](http://https://p
 - Comandos Git
 - Flujo de Trabajo en Github
 - Buenas Prácticas
-- Solución de Problemas
+- Solución de Conflictos
 - Algunos Trucos de Platzi
 
 PD: pequeño recordatorio de que **este Readme.md no va en serio** y solo es a modo de ejercicio.
